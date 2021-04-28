@@ -7,9 +7,9 @@ echo "Started on `date`" > /var/run/tunegpu_status
 CHOME="/sys/class/drm/card0/device"
 
 echo "manual"       > $CHOME/power_dpm_force_performance_level
-echo "s 2 600 750" > $CHOME/pp_od_clk_voltage
-echo "s 3 610 750" > $CHOME/pp_od_clk_voltage
-echo "s 4 620 750" > $CHOME/pp_od_clk_voltage
+echo "s 2 750 780" > $CHOME/pp_od_clk_voltage
+echo "s 3 760 780" > $CHOME/pp_od_clk_voltage
+echo "s 4 770 780" > $CHOME/pp_od_clk_voltage
 echo "c"            > $CHOME/pp_od_clk_voltage
 echo "0 1 2 3 4"    > $CHOME/pp_dpm_sclk
 
