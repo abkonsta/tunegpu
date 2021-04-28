@@ -1,0 +1,7 @@
+[Unit]
+Description=Tune GPU Settings
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /usr/local/tunegpu/tunegpu.sh 
+
