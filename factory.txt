@@ -1,0 +1,20 @@
+Factory clock and voltage settings for RX590 FatBoy
+
+OD_SCLK:
+0:        300MHz        750mV
+1:        909MHz        850mV
+2:       1134MHz       1037mV
+3:       1295MHz       1150mV
+4:       1396MHz       1150mV
+5:       1464MHz       1150mV
+6:       1524MHz       1150mV
+7:       1580MHz       1150mV
+OD_MCLK:
+0:        400MHz        750mV
+1:       1000MHz        900mV
+2:       2000MHz        950mV
+OD_RANGE:
+SCLK:     300MHz       2000MHz
+MCLK:     400MHz       2250MHz
+VDDC:     750mV        1212mV
+
