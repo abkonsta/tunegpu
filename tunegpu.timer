@@ -3,7 +3,7 @@ Description=Tune GPU Settings
 
 [Timer]
 OnUnitActiveSec=30s
-OnBootSec=30s
+OnBootSec=300s
 
 [Install]
 WantedBy=timers.target
