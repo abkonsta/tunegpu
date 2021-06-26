@@ -1,4 +1,8 @@
+This document is a dump of factory voltage and MHz settings for my cards
+------------------------------------------------------------------------
+
 Factory clock and voltage settings for RX580
+--------------------------------------------
 
 OD_SCLK:
 0:        300MHz        750mV
@@ -20,6 +24,7 @@ VDDC:     750mV        1200mV
 
 
 Factory clock and voltage settings for RX590 FatBoy
+---------------------------------------------------
 
 OD_SCLK:
 0:        300MHz        750mV

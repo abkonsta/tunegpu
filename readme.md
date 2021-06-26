@@ -1,6 +1,3 @@
-Instructions from Ask Ubuntu 1083537
-
-
 How to install
 
 - put everything in /usr/local/tunegpu/
