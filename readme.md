@@ -1,4 +1,4 @@
-How to install
+## How to install 
 
 - put everything in /usr/local/tunegpu/
 - link /usr/local/tunegpu/tunegpu.service and tunegpu.timer into /etc/systemd/system
